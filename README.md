@@ -1,4 +1,4 @@
-![logo](![Image](https://github.com/user-attachments/assets/793d8eff-9533-4ee4-b18c-20a445f87d8f))
+![logo](https://github.com/vishnupriya902/vishnupriya902/commit/0669282fee7da48d5c6a0e43f407831ec485c42d)
 <h1 align="center">Hi 👋, I'm Mahmoodul Haque H</h1>
 <h3 align="center">Aspiring Full-Stack Developer skilled in front-end technologies combined with back-end expertise in Java and SQL. Proficient in building responsive, user-centric web applications with a focus on UI/UX design.</h3>
 <img align="right" alt="coding" width="300" src="https://github.com/MAHMOODULHAQUE/MAHMOODULHAQUE/blob/main/gif1.gif"
