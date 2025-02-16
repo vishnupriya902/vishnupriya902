@@ -21,7 +21,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Atom](https://img.shields.io/badge/-Atom-66595C?logo=atom&logoColor=white&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![Brackets](https://img.shields.io/badge/-Brackets-F0F0F0?logo=brackets&logoColor=black&style=flat)
@@ -41,10 +41,10 @@
 
 <h3 align="left">Database:</h3>
 
-![SQL](https://img.shields.io/badge/-SQL++-4479A1?logo=mysql&logoColor=white&style=flat)<hr>
+![SQL](https://img.shields.io/badge/-SQL4479A1?logo=mysql&logoColor=white&style=flat)<hr>
 
 <p><img align="left" src="https://github.com/vishnupriya902?username=vishnupriya&show_icons=true&locale=en&layout=compact" alt="vishnupriya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnupriya&show_icons=true&locale=en" alt="vishnupriya" /></p>
+<p>&nbsp;<img align="center" src=https://github.com/vishnupriya902/vishnupriya902/blob/main/README.md?username=vishnupriya&show_icons=true&locale=en" alt="vishnupriya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoodulhaque&" alt="mahmoodulhaque" /></p>
