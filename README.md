@@ -7,7 +7,7 @@
 <p>🌐 Full-Stack Developer | Frontend Enthusiast | Backend Explorer</p> 
 <p>🎓 Passionate about building scalable and interactive web applications.</p>
 <p>🌱 Currently learning: React.</p>
-<p>💬 Ask me about **HTML,CSS,Javascript,Java,SQL</p>
+<p>💬 Ask me about **HTML,CSS,Javascript,Python,MYSQL</p>
 📫 How to reach me ---> vishnupriya151023@gmail.com
 
 <h3 align="left">Connect with me:</h3>
@@ -20,6 +20,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat&height=50px)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=github-sponsors&logoColor=white&style=flat)
@@ -30,7 +31,7 @@
 <h3 align="left">Frameworks & library:</h3>
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
-![React.js](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 
 <h3 align="left">Database:</h3>
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat).
