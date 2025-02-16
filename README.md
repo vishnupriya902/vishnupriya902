@@ -1,6 +1,6 @@
 ![logo](https://github.com/vishnupriya902/vishnupriya902/blob/main/Black%20Elegant%20Modern%20Personal%20LinkedIn%20Banner%20(1).png?raw=true)
 <h1 align="center">Hi 👋, I'm Vishnupriya G</h1>
-<h3 align="center">Aspiring Full-Stack Developer skilled in front-end technologies combined with back-end expertise in Java and SQL. Proficient in building responsive, user-centric web applications with a focus on UI/UX design.</h3>
+<h3 align="center">Computer Science graduate with hands-on experience in software development and a strong grasp of programming languages like Python. Passionate about coding and problem-solving, seeking to contribute to innovative software development project.</h3>
 <img align="right" alt="coding" width="300" src="https://github.com/MAHMOODULHAQUE/MAHMOODULHAQUE/blob/main/gif1.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoodulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoodulhaque" /> </p>
 <p>🚀 About Me</p>
