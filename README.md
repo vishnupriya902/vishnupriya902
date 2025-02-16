@@ -37,15 +37,14 @@
 <h3 align="left">Frameworks & library:</h3>
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)<hr>
+![React.js](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 
 <h3 align="left">Database:</h3>
 
-![SQL++](https://img.shields.io/badge/-SQL++-4479A1?logo=mysql&logoColor=white&style=flat)<hr>
+![SQL](https://img.shields.io/badge/-SQL++-4479A1?logo=mysql&logoColor=white&style=flat)<hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoodulhaque&show_icons=true&locale=en&layout=compact" alt="mahmoodulhaque" /></p>
+<p><img align="left" src="https://github.com/vishnupriya902?username=vishnupriya&show_icons=true&locale=en&layout=compact" alt="vishnupriya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoodulhaque&show_icons=true&locale=en" alt="mahmoodulhaque" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnupriya&show_icons=true&locale=en" alt="vishnupriya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoodulhaque&" alt="mahmoodulhaque" /></p>
