@@ -20,7 +20,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat&height=50px)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Python]()
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=github-sponsors&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
@@ -33,10 +33,10 @@
 ![React.js](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 
 <h3 align="left">Database:</h3>
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat).
+<hr>
 
-![SQL++](https://img.shields.io/badge/-SQL4479A1?logo=mysql&logoColor=white&style=flat)<hr>
-
-<p><img align="left" src="https://github.com/vishnupriya902?username=vishnupriya&show_icons=true&locale=en&layout=compact" alt="vishnupriya" /></p>
+<p><img align="left" src="https://github.com/vishnupriya902?username=&show_icons=true&locale=en&layout=compact" alt="vishnupriya" /></p>
 
 <p>&nbsp;<img align="center" src=https://github.com/vishnupriya902/vishnupriya902/blob/main/README.md?username=vishnupriya&show_icons=true&locale=en" alt="vishnupriya" /></p>
 
