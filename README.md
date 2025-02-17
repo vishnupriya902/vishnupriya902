@@ -38,8 +38,8 @@
 .
 <hr>
 
-<p><img align="left" src="https://github.com/vishnupriya902?username=&show_icons=true&locale=en&layout=compact" alt="vishnupriya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnupriya&show_icons=true&locale=en&layout=compact" alt="vishnupriya" /></p>
 
-<p>&nbsp;<img align="center" src=https://github.com/vishnupriya902/vishnupriya902/blob/main/README.md?username=vishnupriya&show_icons=true&locale=en" alt="vishnupriya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnupriya&show_icons=true&locale=en" alt="vishnupriya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoodulhaque&" alt="mahmoodulhaque" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnupriya&" alt="vishnupriya" /></p>
