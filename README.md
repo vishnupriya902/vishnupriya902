@@ -35,7 +35,7 @@
 
 <h3 align="left">Database:</h3>
 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 
 <hr>
 
