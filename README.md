@@ -6,7 +6,7 @@
 <p>🚀 About Me</p>
 <p>🌐 Full-Stack Developer | Frontend Enthusiast | Backend Explorer</p> 
 <p>🎓 Passionate about building scalable and interactive web applications.</p>
-<p>🌱 Currently learning: React.https://vishnupriyaportfoliowebsite.netlify.app/</p>
+<p>🌱 Currently learning: React.</p>
 <p>💬 Ask me about **HTML,CSS,Javascript,Python,MYSQL</p>
 📫 How to reach me ---> vishnupriya151023@gmail.com
 
